@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    color: yellow;
+    background:blue;
+}
+body{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+div#starters_image_div{
+    width:fit-content;
+    border:3px solid blue;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right:5px ;
+    padding-bottom: 5px;
+}
+
+div#bulbasaur_container {
+    background-color: rgb(104, 241, 127);
+    border-radius: 10px;
+    border:3px solid rgb(255, 244, 97);
+    }
+
+div#charmander_container {
+        background-color: rgb(231, 104, 73);
+        border-radius: 10px;
+        border:3px solid rgb(255, 244, 97);
+        }
+
+div#squirtle_container {
+background-color: rgb(111, 149, 221);
+border-radius: 10px;
+border:3px solid rgb(255, 244, 97);
+}
+
+
+img{
+    
+}
